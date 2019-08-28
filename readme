@@ -1,0 +1,6 @@
+echo "# refactored-lamp" >> README.md
+git init
+git add README.md
+git commit -m "nhung first commit"
+git remote add origin https://github.com/tnpb/refactored-lamp.git
+git push -u origin master
